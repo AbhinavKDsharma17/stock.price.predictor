@@ -1,2 +1,2 @@
 # stock.price.predictor
-Predicted stock price using L.S.T.M. Neural Networks
+A stock price prediction model based on an LSTM recurrent neural network
